@@ -8,6 +8,4 @@ import lombok.Data;
 public class UsersOnPageResponseModel {
 
     private int per_page;
-
-
 }

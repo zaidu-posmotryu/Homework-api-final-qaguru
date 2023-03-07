@@ -1,7 +1,6 @@
 package specs;
 
 import io.restassured.specification.RequestSpecification;
-
 import static helpers.CustomApiListener.withCustomTemplates;
 import static io.restassured.RestAssured.with;
 

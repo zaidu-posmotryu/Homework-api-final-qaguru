@@ -15,7 +15,7 @@ ________
 1. проверка работы с пользователями
 2. проверка работа функционала регистрации
 
-### <img src="images/logo/Jenkins.svg" width="40" height="40"/> Сборка для запуска тестов в [Jenkins](https://jenkins.autotests.cloud/job/016-sun_of_summer-Homework-quickproject/build?delay=0sec) 
+### <img src="images/logo/Jenkins.svg" width="40" height="40"/> Сборка для запуска тестов в [Jenkins](https://jenkins.autotests.cloud/job/016-sun_of_summer-Homework-api-final/) 
 
 <img src="images/screenshots/jenkins_job.png" width="80%" height="80%"/>  
 
@@ -27,9 +27,7 @@ ________
 
 ### <img src="images/logo/Allure_TestOps.svg" width="50" height="50"/> Интеграция с [Allure TestOps](https://allure.autotests.cloud/project/1970/dashboards)
 
-<img src="images/screenshots/testops-dashboard.PNG" width="80%" height="80%"/> 
-
-<img src="images/screenshots/testops-testcases.PNG" width="80%" height="80%"/>
+<img src="images/screenshots/testops-dashboard.PNG" width="80%" height="80%"/>
 
 ### <img src="images/logo/Telegram.svg" width="30" height="30"/> Уведомления о прохождении тестов в Telegram  
 
