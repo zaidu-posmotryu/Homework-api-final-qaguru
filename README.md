@@ -17,18 +17,18 @@ ________
 
 ### <img src="images/logo/Jenkins.svg" width="40" height="40"/> Сборка для запуска тестов в [Jenkins](https://jenkins.autotests.cloud/job/016-sun_of_summer-Homework-api-final/) 
 
-<img src="images/screenshots/jenkins_job.png" width="80%" height="80%"/>  
+<img src="images/screenshots/jenkins_job-new.png" width="80%" height="80%"/>  
 
 ### <img src="images/logo/Allure_Report.svg" width="50" height="50"/> Отчёт о прохождении тестов доступен по клику на иконку **"Allure Report"**  
 
- <img src="images/screenshots/allure-overview.PNG" width="80%" height="80%"/>  
+ <img src="images/screenshots/allure-overview-new.PNG" width="80%" height="80%"/>  
 
- <img src="images/screenshots/allure-behaviors.PNG" width="80%" height="80%"/>  
+ <img src="images/screenshots/allure-behaviors-new.PNG" width="80%" height="80%"/>  
 
 ### <img src="images/logo/Allure_TestOps.svg" width="50" height="50"/> Интеграция с [Allure TestOps](https://allure.autotests.cloud/project/1970/dashboards)
 
-<img src="images/screenshots/testops-dashboard.PNG" width="80%" height="80%"/>
+<img src="images/screenshots/testops-dashboard-new.PNG" width="80%" height="80%"/>
 
 ### <img src="images/logo/Telegram.svg" width="30" height="30"/> Уведомления о прохождении тестов в Telegram  
 
-<img src="images/screenshots/telegram-bot.PNG" width="30%" height="30%" />  
+<img src="images/screenshots/telegram-bot-new.PNG" width="30%" height="30%" />  
