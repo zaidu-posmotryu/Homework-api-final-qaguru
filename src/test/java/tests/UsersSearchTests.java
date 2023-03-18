@@ -19,7 +19,6 @@ public class UsersSearchTests {
     @BeforeEach
     public void setup() {
         RestAssured.baseURI = "https://reqres.in/";
-        Configuration.baseUrl = "https://reqres.in/";
     }
 
     @Test

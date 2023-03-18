@@ -1,6 +1,5 @@
 package tests;
 
-import com.codeborne.selenide.Configuration;
 import io.qameta.allure.Story;
 import io.restassured.RestAssured;
 import models.RegisterBodyModel;
@@ -18,7 +17,6 @@ public class LoginTests {
     @BeforeEach
     public void setup() {
         RestAssured.baseURI = "https://reqres.in/";
-        Configuration.baseUrl = "https://reqres.in/";
     }
 
     @Test
